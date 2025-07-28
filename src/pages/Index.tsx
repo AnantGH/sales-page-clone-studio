@@ -1,7 +1,7 @@
 import SalesHeader from "@/components/SalesHeader";
 import VideoSection from "@/components/VideoSection";
 import ProductSidebar from "@/components/ProductSidebar";
-import StatsSection from "@/components/StatsSection";
+import BoardroomSection from "@/components/BoardroomSection";
 
 const Index = () => {
   return (
@@ -15,7 +15,7 @@ const Index = () => {
           {/* Left: Video and Content */}
           <div className="flex-1">
             <VideoSection />
-            <StatsSection />
+            <BoardroomSection />
           </div>
           
           {/* Right: Product Sidebar */}
