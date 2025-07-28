@@ -1,11 +1,26 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import SalesHeader from "@/components/SalesHeader";
+import VideoSection from "@/components/VideoSection";
+import ProductSidebar from "@/components/ProductSidebar";
+import StatsSection from "@/components/StatsSection";
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
+    <div className="min-h-screen bg-gradient-dark">
+      {/* Attention-Grabbing Header */}
+      <SalesHeader />
+      
+      {/* Main Content Area */}
+      <div className="container mx-auto py-12">
+        <div className="flex flex-col lg:flex-row gap-8 items-start">
+          {/* Left: Video and Content */}
+          <div className="flex-1">
+            <VideoSection />
+            <StatsSection />
+          </div>
+          
+          {/* Right: Product Sidebar */}
+          <ProductSidebar />
+        </div>
       </div>
     </div>
   );

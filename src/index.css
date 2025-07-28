@@ -8,35 +8,53 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    /* Sales Page Design System */
+    --background: 220 14% 8%; /* Dark background */
+    --foreground: 0 0% 98%; /* White text */
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card: 220 14% 10%;
+    --card-foreground: 0 0% 98%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 220 14% 10%;
+    --popover-foreground: 0 0% 98%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 348 91% 60%; /* Pink/red for headers */
+    --primary-foreground: 0 0% 98%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 220 14% 12%;
+    --secondary-foreground: 0 0% 98%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 220 14% 12%;
+    --muted-foreground: 215 20% 65%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 45 93% 58%; /* Golden yellow for CTAs */
+    --accent-foreground: 220 14% 8%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 220 14% 18%;
+    --input: 220 14% 15%;
+    --ring: 348 91% 60%;
 
-    --radius: 0.5rem;
+    /* Custom sales page tokens */
+    --header-attention: 348 91% 60%; /* Bright pink for attention */
+    --cta-primary: 45 93% 58%; /* Golden yellow for main CTAs */
+    --cta-hover: 45 93% 50%; /* Darker yellow on hover */
+    --video-overlay: 220 14% 8% 0.8; /* Semi-transparent overlay */
+    --trust-badge: 120 60% 50%; /* Green for trust signals */
+    
+    /* Gradients */
+    --gradient-header: linear-gradient(135deg, hsl(348 91% 60%), hsl(348 91% 65%));
+    --gradient-cta: linear-gradient(135deg, hsl(45 93% 58%), hsl(45 93% 50%));
+    --gradient-dark: linear-gradient(180deg, hsl(220 14% 8%), hsl(220 14% 6%));
+    
+    /* Shadows */
+    --shadow-cta: 0 10px 30px -10px hsl(45 93% 58% / 0.4);
+    --shadow-card: 0 20px 40px -10px hsl(220 14% 4% / 0.5);
+    --shadow-video: 0 25px 50px -15px hsl(220 14% 4% / 0.7);
+
+    --radius: 0.75rem;
 
     --sidebar-background: 0 0% 98%;
 

@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Sales page specific colors
+				'header-attention': 'hsl(var(--header-attention))',
+				'cta-primary': 'hsl(var(--cta-primary))',
+				'cta-hover': 'hsl(var(--cta-hover))',
+				'trust-badge': 'hsl(var(--trust-badge))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -84,11 +89,41 @@ export default {
 					to: {
 						height: '0'
 					}
+				},
+				'pulse-glow': {
+					'0%, 100%': {
+						boxShadow: '0 0 20px hsl(var(--cta-primary) / 0.4)'
+					},
+					'50%': {
+						boxShadow: '0 0 40px hsl(var(--cta-primary) / 0.8)'
+					}
+				},
+				'fade-in-up': {
+					'0%': {
+						opacity: '0',
+						transform: 'translateY(30px)'
+					},
+					'100%': {
+						opacity: '1',
+						transform: 'translateY(0)'
+					}
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'pulse-glow': 'pulse-glow 2s ease-in-out infinite',
+				'fade-in-up': 'fade-in-up 0.6s ease-out'
+			},
+			backgroundImage: {
+				'gradient-header': 'var(--gradient-header)',
+				'gradient-cta': 'var(--gradient-cta)',
+				'gradient-dark': 'var(--gradient-dark)'
+			},
+			boxShadow: {
+				'cta': 'var(--shadow-cta)',
+				'card-hover': 'var(--shadow-card)',
+				'video': 'var(--shadow-video)'
 			}
 		}
 	},
