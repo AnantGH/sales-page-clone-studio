@@ -8,14 +8,14 @@ const VideoSection = () => {
       {/* Main Headline */}
       <div className="text-center mb-8">
         <h3 className="text-muted-foreground text-lg mb-4">
-          Discover How 47 Professionals Went From Grinding Around The Clock In Their "It Pays The Bills" Job To...
+          For people looking to scale their Real Estate Business and get more time for themselves -
         </h3>
         <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight mb-6">
-          Replacing Their 9-5 Income, Spending More Time With Their Loved Ones, And Building{" "}
-          <span className="text-header-attention">Sustainable Wealth</span> In The Process
+          Discover How 2000+ People have Become Owners of Big 8-9 figure companies by Scaling their Real Estate Businesses Going from{" "}
+          <span className="text-header-attention">"Being a Locked into a Room Hustler"</span> to a CEO
         </h1>
         <p className="text-muted-foreground text-lg">
-          ...all by using the $1 <span className="text-yellow-300 font-bold">'7-Figure Short Term Rental Bundle'</span>
+          Learn why Boardroom Mastermind has been the best Premier Mastermind Group in the industry since 2012
         </p>
       </div>
 
