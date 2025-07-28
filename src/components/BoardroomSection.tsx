@@ -1,8 +1,8 @@
 const BoardroomSection = () => {
   return (
     <div className="max-w-4xl mx-auto px-4 py-12 text-white">
-      {/* What is Boardroom Mastermind Section */}
-      <div className="bg-card rounded-lg p-8 mb-8">
+      {/* Single section with all content */}
+      <div className="bg-card rounded-lg p-8">
         <h2 className="text-2xl font-bold text-white mb-6">What is Boardroom Mastermind?</h2>
         
         <div className="space-y-4 text-muted-foreground">
@@ -37,12 +37,7 @@ const BoardroomSection = () => {
           <p>
             Well, I can't blame you because I was in your place once.
           </p>
-        </div>
-      </div>
-
-      {/* Story Section */}
-      <div className="bg-card rounded-lg p-8">
-        <div className="space-y-4 text-muted-foreground">
+          
           <p>
             It took one or more events to take me to the point where I got clarity.
           </p>
