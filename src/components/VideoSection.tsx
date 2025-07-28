@@ -7,9 +7,6 @@ const VideoSection = () => {
     <div className="relative max-w-4xl mx-auto px-4 animate-fade-in-up">
       {/* Main Headline */}
       <div className="text-center mb-8">
-        <h3 className="text-muted-foreground text-lg mb-4">
-          For people looking to scale their Real Estate Business and get more time for themselves -
-        </h3>
         <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight mb-6">
           Discover How 2000+ People have Become Owners of Big 8-9 figure companies by Scaling their Real Estate Businesses Going from{" "}
           <span className="text-header-attention">"Being a Locked into a Room Hustler"</span> to a CEO
