@@ -48,11 +48,11 @@ const WhyRealEstateSection = () => {
             So you see every skyscraper or farmhouse is owned by someone,
           </p>
           
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             This means as long as humanity is alive we will keep making buildings and that is why real estate is evergreen.
           </p>
           
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             So there is literally no limit to how much money you can make in this industry.
           </p>
           
@@ -60,7 +60,7 @@ const WhyRealEstateSection = () => {
             Also, this industry is the only one out of all the new-age business models which cannot be completely dominated by AI, because…
           </p>
           
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             Ultimately real estate will only be owned by a human and not a machine.
           </p>
           
@@ -68,7 +68,7 @@ const WhyRealEstateSection = () => {
             But the same cannot be said for other business models.
           </p>
           
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             So here is how you can learn how you can make quick money from real estate -
           </p>
           
@@ -78,7 +78,7 @@ const WhyRealEstateSection = () => {
             <p>3. Without placing your hard-earned life savings at stake.</p>
           </div>
           
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             That is why I compiled and provided each one of these inside the ProjectRE, which will change your life forever -
           </p>
         </div>
