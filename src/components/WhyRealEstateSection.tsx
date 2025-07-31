@@ -28,11 +28,11 @@ const WhyRealEstateSection = () => {
             People ask me "Why Real Estate?"
           </p>
           
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "Real Estate is so old-school people earn money through Crypto, SMMA, Dropshipping, trading etc. nowadays"
           </p>
           
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "How does Real Estate stand apart from them?"
           </p>
           
