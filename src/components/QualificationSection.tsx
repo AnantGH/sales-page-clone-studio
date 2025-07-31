@@ -9,40 +9,40 @@ const QualificationSection = () => {
         <div className="space-y-4 mb-8">
           <div className="flex items-start gap-3">
             <span className="text-red-500 text-xl font-bold">❌</span>
-            <p className="text-muted-foreground">You are not willing to learn new things and apply them in order to make money.</p>
+            <p className="text-muted-foreground text-lg">You are not willing to learn new things and apply them in order to make money.</p>
           </div>
           
           <div className="flex items-start gap-3">
             <span className="text-red-500 text-xl font-bold">❌</span>
-            <p className="text-muted-foreground">You are looking for a get rich quick scheme.</p>
+            <p className="text-muted-foreground text-lg">You are looking for a get rich quick scheme.</p>
           </div>
           
           <div className="flex items-start gap-3">
             <span className="text-red-500 text-xl font-bold">❌</span>
-            <p className="text-muted-foreground">You are not willing to do the work required because in this program apart from teaching we also monitor your first flip and how much money you make through it.</p>
+            <p className="text-muted-foreground text-lg">You are not willing to do the work required because in this program apart from teaching we also monitor your first flip and how much money you make through it.</p>
           </div>
         </div>
 
         <h2 className="text-2xl font-bold text-white mb-6">How does it work?</h2>
         
         <div className="space-y-4 mb-8">
-          <p className="text-muted-foreground">
+          <p className="text-muted-foreground text-lg">
             It's actually quite simple considering the outcome you get from this programme…
           </p>
           
-          <p className="text-muted-foreground">
+          <p className="text-muted-foreground text-lg">
             Just simply click on any of the links.
           </p>
           
-          <p className="text-muted-foreground">
+          <p className="text-muted-foreground text-lg">
             Then we'll hop on a quick strategy call, so I can see what you're doing and who YOU are.
           </p>
           
-          <p className="text-muted-foreground">
+          <p className="text-muted-foreground text-lg">
             This is important so that we can make an actual plan on how to get you to where you want.
           </p>
           
-          <p className="text-muted-foreground">
+          <p className="text-muted-foreground text-lg">
             And how we will apply those plans daily to progress each day and finally get you to achieve your dream income target.
           </p>
           
@@ -50,7 +50,7 @@ const QualificationSection = () => {
             That's when the FUN starts!
           </p>
           
-          <p className="text-muted-foreground">
+          <p className="text-muted-foreground text-lg">
             You'll also get access to a bunch of resources with an estimated value of &lt;X&gt;.
           </p>
           
