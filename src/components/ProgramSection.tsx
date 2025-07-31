@@ -18,11 +18,11 @@ const ProgramSection = () => {
             <p className="text-muted-foreground text-lg">
               When it comes to real estate or any other business you start with the basics that need to be mastered first to succeed in it.
             </p>
-            <p className="font-semibold text-white">During this week, you'll discover -</p>
+            <p className="font-bold text-white">During this week, you'll discover -</p>
             
             <div className="ml-4 space-y-3">
               <div>
-                <p className="font-semibold text-white">- Flipping basics -</p>
+                <p className="font-bold text-white">- Flipping basics -</p>
                 <div className="ml-4 space-y-1 text-muted-foreground text-lg">
                   <p>- Learn and understand Real Estate Flipping from start to finish.</p>
                   <p>- Key Concepts and Terminologies used in this Business so that you can talk clearly and make friends within this industry.</p>
@@ -30,7 +30,7 @@ const ProgramSection = () => {
               </div>
               
               <div>
-                <p className="font-semibold text-white">- Getting Started -</p>
+                <p className="font-bold text-white">- Getting Started -</p>
                 <div className="ml-4 space-y-1 text-muted-foreground text-lg">
                   <p>- Initial steps before flipping the property including the paperwork so that you don't get into any legal issues.</p>
                   <p>- The most realistic goals and expectations you can have according to the property you are going to flip, we will walk you through all the things a house needs according to market demands, even if you have no idea about lavish houses. This will help you get paid handsomely after flipping.</p>
@@ -39,7 +39,7 @@ const ProgramSection = () => {
               </div>
               
               <div>
-                <p className="font-semibold text-white">- Building a core team -</p>
+                <p className="font-bold text-white">- Building a core team -</p>
                 <p className="text-muted-foreground text-lg ml-4">While solo flippers can handle small projects alone, but a team can bring in more efficiency in your business especially when you are looking to scale. The most important ones are - Contractor/renovation specialist, Inspector, Designer/architect, Property Manager, Accountant/bookkeeper, Attorney, Lender/financial advisor</p>
               </div>
             </div>
@@ -50,11 +50,11 @@ const ProgramSection = () => {
             <h3 className="text-xl font-bold text-white">2. Week 2: 2-Phase Property Sourcing Technique -</h3>
             <div className="ml-4 space-y-3">
               <div>
-                <p className="font-semibold text-white">- Defining your Buy Box -</p>
+                <p className="font-bold text-white">- Defining your Buy Box -</p>
                 <p className="text-muted-foreground text-lg">It is important to establish the criteria for the type of properties you would like to flip like location, price range, property type, condition, potential profit margin etc. This will help you stay focused and not get overwhelmed in the process.</p>
               </div>
               <div>
-                <p className="font-semibold text-white">- Finding the Right Deal -</p>
+                <p className="font-bold text-white">- Finding the Right Deal -</p>
                 <p className="text-muted-foreground text-lg">You will learn how to analyse deals which give maximum profitability. You will learn the techniques to source these properties including networking with other agents, and even using online tools for finding the best deals.</p>
               </div>
             </div>
