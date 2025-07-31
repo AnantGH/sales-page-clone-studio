@@ -34,11 +34,11 @@ const BoardroomSection = () => {
             Because I thought -
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "Everyone wants a house, don't they?"
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "It is just easy you need to walk into someone's house and convince them to buy"
           </p>
 
@@ -86,15 +86,15 @@ const BoardroomSection = () => {
             I used to think -
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "Maybe sales is not for me. I should work more at Red Robin maybe I may get a promotion."
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "I cannot succeed."
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "This is not meant for me."
           </p>
 
