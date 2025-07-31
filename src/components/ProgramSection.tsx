@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 const ProgramSection = () => {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-12 text-white">
+    <div className="px-4 md:px-8 lg:px-16 py-12 text-white">
       <div className="bg-card rounded-lg p-8">
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold text-white mb-4">Introduction to ProjectRE-</h2>
