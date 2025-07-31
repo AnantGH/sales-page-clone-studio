@@ -1,6 +1,6 @@
 const BoardroomSection = () => {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-12 text-white">
+    <div className="px-4 md:px-8 lg:px-16 py-12 text-white">
       {/* Single section with all content */}
       <div className="bg-card rounded-lg p-8">
         <h2 className="text-2xl font-bold text-white mb-6">What is ProjectRE?</h2>
