@@ -19,6 +19,9 @@ const Index = () => {
           <div className="flex-1">
             <VideoSection />
             <BoardroomSection />
+            <WhyRealEstateSection />
+            <ProgramSection />
+            <QualificationSection />
           </div>
           
           {/* Right: Product Sidebar */}
