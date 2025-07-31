@@ -24,17 +24,17 @@ const ProgramSection = () => {
               <div>
                 <p className="font-bold text-white">- Flipping basics -</p>
                 <div className="ml-4 space-y-1 text-muted-foreground text-lg">
-                  <p>- Learn and understand Real Estate Flipping from start to finish.</p>
-                  <p>- Key Concepts and Terminologies used in this Business so that you can talk clearly and make friends within this industry.</p>
+                  <p>- <span className="font-bold">Learn and understand Real Estate Flipping</span> from start to finish.</p>
+                  <p>- <span className="font-bold">Key Concepts and Terminologies used in this Business</span> so that you can talk clearly and make friends within this industry.</p>
                 </div>
               </div>
               
               <div>
                 <p className="font-bold text-white">- Getting Started -</p>
                 <div className="ml-4 space-y-1 text-muted-foreground text-lg">
-                  <p>- Initial steps before flipping the property including the paperwork so that you don't get into any legal issues.</p>
-                  <p>- The most realistic goals and expectations you can have according to the property you are going to flip, we will walk you through all the things a house needs according to market demands, even if you have no idea about lavish houses. This will help you get paid handsomely after flipping.</p>
-                  <p>- Create a Business Plan and Budget beforehand so that you don't run into the problem of having less budget than needed to sell the house at huge profits.</p>
+                  <p>- <span className="font-bold">Initial steps before flipping the property including the paperwork</span> so that you don't get into any legal issues.</p>
+                  <p>- <span className="font-bold">The most realistic goals and expectations you can have according to the property you are going to flip,</span> we will walk you through all the things a house needs according to market demands, even if you have no idea about lavish houses. This will help you get paid handsomely after flipping.</p>
+                  <p>- <span className="font-bold">Create a Business Plan and Budget</span> beforehand so that you don't run into the problem of having less budget than needed to sell the house at huge profits.</p>
                 </div>
               </div>
               
@@ -64,8 +64,8 @@ const ProgramSection = () => {
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">3. Week 3: 7-Day Underwriting Mastery</h3>
             <div className="ml-4 space-y-3 text-muted-foreground text-lg">
-              <p>- The most important skill in your Flipping Business and the Key to earning 7-Figures/month. (Most people get this wrong).</p>
-              <p>- Our "Systematic Presentation Method" is to convince anyone to give you as much debt funding as possible to fix and flip a house without putting your hard-earned life savings on the line.</p>
+              <p>- <span className="font-bold">The most important skill in your Flipping Business and the Key to earning 7-Figures/month. (Most people get this wrong).</span></p>
+              <p>- Our <span className="font-bold">"Systematic Presentation Method"</span> is to convince anyone to give you as much debt funding as possible to fix and flip a house without putting your hard-earned life savings on the line.</p>
             </div>
           </div>
 
@@ -73,10 +73,10 @@ const ProgramSection = () => {
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">4. Week 4: Funding, Private Lending and JV Masterclass.</h3>
             <div className="ml-4 space-y-3 text-muted-foreground text-lg">
-              <p>- Our "No-Frills Funding System" to Get Funding in such a way that even if you lose some money you don't get into any legal problems.</p>
-              <p>- The #1 Underground Funding Technique to get the maximum funding possible with minimum upfront capital</p>
-              <p>- Our "Human Touch Technique" to convince anyone to privately lend you money.</p>
-              <p>- Learn how to set up a Joint Venture with other people in the same business to pool your resources together and increase the chances of making more money.</p>
+              <p>- Our <span className="font-bold">"No-Frills Funding System"</span> to Get Funding in such a way that even if you lose some money you don't get into any legal problems.</p>
+              <p>- <span className="font-bold">The #1 Underground Funding Technique</span> to get the maximum funding possible with minimum upfront capital</p>
+              <p>- Our <span className="font-bold">"Human Touch Technique"</span> to convince anyone to privately lend you money.</p>
+              <p>- <span className="font-bold">Learn how to set up a Joint Venture</span> with other people in the same business to pool your resources together and increase the chances of making more money.</p>
             </div>
           </div>
 
