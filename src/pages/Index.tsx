@@ -13,19 +13,11 @@ const Index = () => {
       
       {/* Main Content Area */}
       <div className="container mx-auto py-12">
-        <div className="flex flex-col lg:flex-row gap-8 items-start">
-          {/* Left: Video and Content */}
-          <div className="flex-1">
-            <VideoSection />
-            <BoardroomSection />
-            <WhyRealEstateSection />
-            <ProgramSection />
-            <QualificationSection />
-          </div>
-          
-          {/* Right: Product Sidebar */}
-          <ProductSidebar />
-        </div>
+        <VideoSection />
+        <BoardroomSection />
+        <WhyRealEstateSection />
+        <ProgramSection />
+        <QualificationSection />
       </div>
     </div>
   );
