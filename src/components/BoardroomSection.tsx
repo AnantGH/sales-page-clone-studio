@@ -1,11 +1,11 @@
 const BoardroomSection = () => {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-12 text-white">
+    <div className="px-4 md:px-8 lg:px-16 py-12 text-white">
       {/* Single section with all content */}
       <div className="bg-card rounded-lg p-8">
         <h2 className="text-2xl font-bold text-white mb-6">What is ProjectRE?</h2>
         
-        <div className="space-y-4 text-muted-foreground">
+        <div className="space-y-4 text-muted-foreground text-lg">
           <p>
             See if you have read the above headline, then yes I have actually fixed and flipped around 3500+ properties, but…
           </p>
@@ -34,11 +34,11 @@ const BoardroomSection = () => {
             Because I thought -
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "Everyone wants a house, don't they?"
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "It is just easy you need to walk into someone's house and convince them to buy"
           </p>
 
@@ -86,15 +86,15 @@ const BoardroomSection = () => {
             I used to think -
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "Maybe sales is not for me. I should work more at Red Robin maybe I may get a promotion."
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "I cannot succeed."
           </p>
 
-          <p className="font-semibold text-white italic">
+          <p className="font-bold text-white italic">
             "This is not meant for me."
           </p>
 
@@ -106,7 +106,7 @@ const BoardroomSection = () => {
             So I did not quit and through my dedication, market research and perseverance…
           </p>
 
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             I went from no money to building a successful real estate flipping business and today I am the owner of 5 different real estate companies.
           </p>
 
@@ -122,11 +122,11 @@ const BoardroomSection = () => {
             Believe me that one year of torture was something so bad I wouldn't want it on my worst enemies.
           </p>
 
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             That is why ProjectRE was born so that you don't have to feel alone like I was when I started.
           </p>
 
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             An online Academy for serious Real Estate Investors who are looking to achieve financial freedom.
           </p>
 
@@ -138,7 +138,7 @@ const BoardroomSection = () => {
             We work like a network or community and a chance to connect with a Real Estate expert that actually wants to support you in your journey.
           </p>
 
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             When you join the ProjectRE, you are putting my 18 years of expertise in your toolbox.
           </p>
         </div>

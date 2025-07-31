@@ -1,6 +1,5 @@
 import SalesHeader from "@/components/SalesHeader";
 import VideoSection from "@/components/VideoSection";
-import ProductSidebar from "@/components/ProductSidebar";
 import BoardroomSection from "@/components/BoardroomSection";
 import WhyRealEstateSection from "@/components/WhyRealEstateSection";
 import ProgramSection from "@/components/ProgramSection";
@@ -13,20 +12,12 @@ const Index = () => {
       <SalesHeader />
       
       {/* Main Content Area */}
-      <div className="container mx-auto py-12">
-        <div className="flex flex-col lg:flex-row gap-8 items-start">
-          {/* Left: Video and Content */}
-          <div className="flex-1">
-            <VideoSection />
-            <BoardroomSection />
-            <WhyRealEstateSection />
-            <ProgramSection />
-            <QualificationSection />
-          </div>
-          
-          {/* Right: Product Sidebar */}
-          <ProductSidebar />
-        </div>
+      <div className="py-12 px-4 md:px-8 lg:px-16">
+        <VideoSection />
+        <BoardroomSection />
+        <WhyRealEstateSection />
+        <ProgramSection />
+        <QualificationSection />
       </div>
     </div>
   );

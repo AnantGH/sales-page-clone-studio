@@ -4,7 +4,7 @@ import videoThumbnail from "@/assets/video-thumbnail.jpg";
 
 const VideoSection = () => {
   return (
-    <div className="relative max-w-4xl mx-auto px-4 animate-fade-in-up">
+    <div className="relative px-4 md:px-8 lg:px-16 animate-fade-in-up">
       {/* Main Headline */}
       <div className="text-center mb-8">
         <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight mb-6">
