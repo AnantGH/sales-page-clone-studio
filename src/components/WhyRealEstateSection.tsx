@@ -19,7 +19,7 @@ const WhyRealEstateSection = () => {
       <div className="bg-card rounded-lg p-8">
         <h2 className="text-2xl font-bold text-white mb-6">Why Real Estate is the best?</h2>
         
-        <div className="space-y-4 text-muted-foreground">
+        <div className="space-y-4 text-muted-foreground text-lg">
           <p>
             And before I take you the fantastic program setup I have for you which can earn you money like the people above, there is another thing which I wanted to share -
           </p>
