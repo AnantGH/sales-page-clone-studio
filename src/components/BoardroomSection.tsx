@@ -106,7 +106,7 @@ const BoardroomSection = () => {
             So I did not quit and through my dedication, market research and perseverance…
           </p>
 
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             I went from no money to building a successful real estate flipping business and today I am the owner of 5 different real estate companies.
           </p>
 
@@ -122,11 +122,11 @@ const BoardroomSection = () => {
             Believe me that one year of torture was something so bad I wouldn't want it on my worst enemies.
           </p>
 
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             That is why ProjectRE was born so that you don't have to feel alone like I was when I started.
           </p>
 
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             An online Academy for serious Real Estate Investors who are looking to achieve financial freedom.
           </p>
 
@@ -138,7 +138,7 @@ const BoardroomSection = () => {
             We work like a network or community and a chance to connect with a Real Estate expert that actually wants to support you in your journey.
           </p>
 
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             When you join the ProjectRE, you are putting my 18 years of expertise in your toolbox.
           </p>
         </div>
