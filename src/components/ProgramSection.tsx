@@ -84,33 +84,33 @@ const ProgramSection = () => {
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">5. Week 5: "Construction Flip Team Formula"</h3>
             <div className="ml-4 space-y-3 text-muted-foreground text-lg">
-              <p>- The #1 Leadership Mistake people make which leads to team members abandoning the work without completion.</p>
-              <p>- How to hire expert and experienced contractors without spending too much upfront.</p>
-              <p>- How to establish and communicate clear timelines, roles and responsibilities to establish good working relationships.</p>
+              <p>- <span className="font-bold">The #1 Leadership Mistake people</span> make which leads to team members abandoning the work without completion.</p>
+              <p>- <span className="font-bold">How to hire expert and experienced contractors</span> without spending too much upfront.</p>
+              <p>- <span className="font-bold">How to establish and communicate clear timelines, roles and responsibilities</span> to establish good working relationships.</p>
             </div>
           </div>
 
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">6. Week 6: "Renovation Design Mastery"</h3>
             <div className="ml-4 space-y-3 text-muted-foreground text-lg">
-              <p>- Our Design Comprehension Blueprint to develop a comprehensive renovation plan with high-standard designs with the minimum investment possible to make maximum profit from the house.</p>
-              <p>- Our #1 Marketscaping Formula to adjust plans based on market trends and buyer preferences.</p>
+              <p>- Our <span className="font-bold">Design Comprehension Blueprint</span> to develop a comprehensive renovation plan with high-standard designs with the minimum investment possible to make maximum profit from the house.</p>
+              <p>- Our <span className="font-bold">#1 Marketscaping Formula</span> to adjust plans based on market trends and buyer preferences.</p>
             </div>
           </div>
 
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">7. Week 7: "8-Fig Construction Exercise System"</h3>
             <div className="ml-4 space-y-3 text-muted-foreground text-lg">
-              <p>- Establishing the best practices to utilize project management to stay organised and finish the work even before the established timeline.</p>
+              <p>- <span className="font-bold">Establishing the best practices to utilize project management</span> to stay organised and finish the work even before the established timeline.</p>
             </div>
           </div>
 
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">8. Week 8: Scaling Mastery</h3>
             <div className="ml-4 space-y-3 text-muted-foreground text-lg">
-              <p>- Our "Brand Scaling Mastery" to build a strong brand and reputation so as to be invited by real estate groups for project management.</p>
-              <p>- Learn how to execute multiple projects together without being physically present at every location.</p>
-              <p>- Our 5-Day "Talent Expansion System" to expand your working team and operation machines while staying profitable.</p>
+              <p>- Our <span className="font-bold">"Brand Scaling Mastery"</span> to build a strong brand and reputation so as to be invited by real estate groups for project management.</p>
+              <p>- <span className="font-bold">Learn how to execute multiple projects together</span> without being physically present at every location.</p>
+              <p>- Our <span className="font-bold">5-Day "Talent Expansion System"</span> to expand your working team and operation machines while staying profitable.</p>
             </div>
           </div>
 
