@@ -3,51 +3,143 @@ const BoardroomSection = () => {
     <div className="max-w-4xl mx-auto px-4 py-12 text-white">
       {/* Single section with all content */}
       <div className="bg-card rounded-lg p-8">
-        <h2 className="text-2xl font-bold text-white mb-6">What is Boardroom Mastermind?</h2>
+        <h2 className="text-2xl font-bold text-white mb-6">What is ProjectRE?</h2>
         
         <div className="space-y-4 text-muted-foreground">
           <p>
-            I will tell you what Boardroom Mastermind is but first, you need to know what it is not,
+            See if you have read the above headline, then yes I have actually fixed and flipped around 3500+ properties, but…
           </p>
-          
+
           <p>
-            See if I give you a real talk then anyone can teach you wholesaling or teach you how to flip houses or do novation deals, but apart from that we do something much more.
+            This number is huge only because I started real estate in my college years.
           </p>
-          
+
           <p>
-            We won't give you any generic advice in the Boardroom like do more, hustle hard and all of that stuff.
+            I used to work at Red Robin while attending Washington University but wanted more income,
           </p>
-          
+
+          <p>
+            So I got into sales because people were making a lot of money in it.
+          </p>
+
+          <p>
+            Now I had to choose one industry so I chose real estate,
+          </p>
+
           <p className="font-semibold text-white">
-            The main idea of the Boardroom is to get you into an environment where you can learn how to actually to be a business owner.
+            Why?
           </p>
-          
+
+          <p>
+            Because I thought -
+          </p>
+
+          <p className="font-semibold text-white italic">
+            "Everyone wants a house, don't they?"
+          </p>
+
+          <p className="font-semibold text-white italic">
+            "It is just easy you need to walk into someone's house and convince them to buy"
+          </p>
+
+          <p>
+            Or at least I thought so,
+          </p>
+
+          <p>
+            Now I decided to knock on foreclosure doors without any experience.
+          </p>
+
+          <p>
+            And that way I got into door-to-door sales.
+          </p>
+
+          <p>
+            But as people say success is not a straight path and I was about to learn this saying the hard way,
+          </p>
+
+          <p>
+            I used to work my 9-5 job, attend college and every spare time I had in the day I would dedicate it to real estate.
+          </p>
+
+          <p>
+            Knocking door to door and cold calling didn't take me anywhere.
+          </p>
+
+          <p>
+            I had so many things planned after I would succeed but it didn't happen according to my wishes,
+          </p>
+
+          <p>
+            I didn't see success for 1 whole year,
+          </p>
+
+          <p>
+            I was in a very dark place, alone with no one to guide me.
+          </p>
+
+          <p>
+            No one was there to help me I was just there alone with my thoughts.
+          </p>
+
+          <p>
+            I used to think -
+          </p>
+
+          <p className="font-semibold text-white italic">
+            "Maybe sales is not for me. I should work more at Red Robin maybe I may get a promotion."
+          </p>
+
+          <p className="font-semibold text-white italic">
+            "I cannot succeed."
+          </p>
+
+          <p className="font-semibold text-white italic">
+            "This is not meant for me."
+          </p>
+
+          <p>
+            But even after all of these, I had no choice because I had to pull it off.
+          </p>
+
+          <p>
+            So I did not quit and through my dedication, market research and perseverance…
+          </p>
+
           <p className="font-semibold text-white">
-            Because nowadays due to hustle culture, you are being told just to work, work, work all the time.
+            I went from no money to building a successful real estate flipping business and today I am the owner of 5 different real estate companies.
           </p>
-          
+
           <p>
-            We teach you to focus on things that really matter in your business and your life.
+            In the beginning, I didn't have guidance I was all alone in this game,
           </p>
-          
+
           <p>
-            I know you won't understand what I am trying to say because you are still in the hustle mode.
+            That is why I decided to give people like me the guidance they needed to earn money from flipping properties so that they don't have to fail like me for 1 year.
           </p>
-          
+
           <p>
-            Well, I can't blame you because I was in your place once.
+            Believe me that one year of torture was something so bad I wouldn't want it on my worst enemies.
           </p>
-          
-          <p>
-            It took one or more events to take me to the point where I got clarity.
+
+          <p className="font-semibold text-white">
+            That is why ProjectRE was born so that you don't have to feel alone like I was when I started.
           </p>
-          
-          <p>
-            And truth be told I got that clarity very late in my life.
+
+          <p className="font-semibold text-white">
+            An online Academy for serious Real Estate Investors who are looking to achieve financial freedom.
           </p>
-          
+
           <p>
-            Because....
+            Because I know the struggles of you all, I have set up my academy in a way that it's competitive and cooperative at the same time.
+          </p>
+
+          <p>
+            We work like a network or community and a chance to connect with a Real Estate expert that actually wants to support you in your journey.
+          </p>
+
+          <p className="font-semibold text-white">
+            When you join the ProjectRE, you are putting my 18 years of expertise in your toolbox.
           </p>
         </div>
       </div>
