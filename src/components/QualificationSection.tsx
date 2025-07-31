@@ -46,7 +46,7 @@ const QualificationSection = () => {
             And how we will apply those plans daily to progress each day and finally get you to achieve your dream income target.
           </p>
           
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             That's when the FUN starts!
           </p>
           
@@ -54,11 +54,11 @@ const QualificationSection = () => {
             You'll also get access to a bunch of resources with an estimated value of &lt;X&gt;.
           </p>
           
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             Inside you'll have everything you need to make money through real estate…
           </p>
           
-          <p className="font-semibold text-white">
+          <p className="font-bold text-white">
             And quit your 9-5 job forever and spend more time with people you love.
           </p>
         </div>
