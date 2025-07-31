@@ -12,7 +12,7 @@ const Index = () => {
       <SalesHeader />
       
       {/* Main Content Area */}
-      <div className="container mx-auto py-12">
+      <div className="py-12 px-4 md:px-8 lg:px-16">
         <VideoSection />
         <BoardroomSection />
         <WhyRealEstateSection />
