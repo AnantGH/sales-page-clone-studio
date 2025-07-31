@@ -8,11 +8,11 @@ const VideoSection = () => {
       {/* Main Headline */}
       <div className="text-center mb-8">
         <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight mb-6">
-          Discover How 2000+ People have Become Owners of Big 8-9 figure companies by Scaling their Real Estate Businesses Going from{" "}
-          <span className="text-header-attention">"Being a Locked into a Room Hustler"</span> to a CEO
+          Learn How I Fixed and Flipped around 3500+ Properties while Cashing-In Around 100% Profit from Each Property inside{" "}
+          <span className="text-header-attention">ProjectRE.</span>
         </h1>
         <p className="text-muted-foreground text-lg">
-          Learn why Boardroom Mastermind has been the best Premier Mastermind Group in the industry since 2012
+          Without spending thousands of dollars upfront on finding highly profitable properties only to lose money on a bad deal.
         </p>
       </div>
 
@@ -42,7 +42,7 @@ const VideoSection = () => {
       {/* CTA Button */}
       <div className="text-center">
         <Button variant="cta-large" className="mb-4">
-          Give Me The 7-Figure 'Short Term Rental Bundle' For $1 🔥
+          Yes! Enroll Me In ProjectRE.
         </Button>
         <p className="text-muted-foreground text-sm flex items-center justify-center gap-2">
           🔒 Backed by Our <span className="text-trust-badge font-bold">100% Money Back Guarantee</span>
