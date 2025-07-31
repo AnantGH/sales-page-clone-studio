@@ -5,7 +5,7 @@ const BoardroomSection = () => {
       <div className="bg-card rounded-lg p-8">
         <h2 className="text-2xl font-bold text-white mb-6">What is ProjectRE?</h2>
         
-        <div className="space-y-4 text-muted-foreground">
+        <div className="space-y-4 text-muted-foreground text-lg">
           <p>
             See if you have read the above headline, then yes I have actually fixed and flipped around 3500+ properties, but…
           </p>
