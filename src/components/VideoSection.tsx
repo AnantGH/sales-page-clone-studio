@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { Play } from "lucide-react";
-import videoThumbnail from "@/assets/video-thumbnail.jpg";
 
 const VideoSection = () => {
   return (
@@ -20,8 +19,8 @@ const VideoSection = () => {
       <div className="relative bg-card rounded-lg overflow-hidden shadow-video mb-8">
         <div className="relative aspect-video">
           <img 
-            src={videoThumbnail} 
-            alt="Video Thumbnail" 
+            src="https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=800&h=600&fit=crop" 
+            alt="Professional business person" 
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
