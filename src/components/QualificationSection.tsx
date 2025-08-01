@@ -77,7 +77,7 @@ const QualificationSection = () => {
 
       {/* Third Box - FAQs */}
       <div className="bg-card rounded-lg p-8">
-        <h2 className="text-2xl font-bold text-white mb-6 text-center">FAQs</h2>
+        <h2 className="text-5xl font-bold text-white mb-6 text-center">FAQs</h2>
         
         <div className="text-center">
           <Accordion type="single" collapsible className="mt-6 space-y-4">
