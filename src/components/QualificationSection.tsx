@@ -82,7 +82,7 @@ const QualificationSection = () => {
         <div className="text-center">
           <Accordion type="single" collapsible className="mt-6 space-y-4">
             <AccordionItem value="what-included" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 What exactly is included in this high-ticket real estate coaching program?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -91,7 +91,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="will-work" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 How do I know this program will work for me?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -100,7 +100,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="no-money" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 What if I don't have a lot of money to invest?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -109,7 +109,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="full-time-job" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 Is this suitable for someone with a full-time job?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -118,7 +118,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="results-timeline" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 How quickly can I expect to see results?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -127,7 +127,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="different" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 What makes this different from other real estate programs?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -136,7 +136,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="support" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 What if I have questions or get stuck?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -145,7 +145,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="guarantee" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 Is there a guarantee?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -154,7 +154,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="afraid-invest" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 I'm afraid to invest in myself—how do I know it's worth it?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -163,7 +163,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="market-turns" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 What if the real estate market turns?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
@@ -172,7 +172,7 @@ const QualificationSection = () => {
             </AccordionItem>
 
             <AccordionItem value="get-started" className="border-border">
-              <AccordionTrigger className="text-white hover:text-white/80 text-left">
+              <AccordionTrigger className="text-white hover:text-white/80 text-left text-xl">
                 How do I get started?
               </AccordionTrigger>
               <AccordionContent className="text-muted-foreground text-xl text-left">
