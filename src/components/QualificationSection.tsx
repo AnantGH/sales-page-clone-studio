@@ -4,10 +4,11 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 const QualificationSection = () => {
   return (
     <div className="px-4 md:px-8 lg:px-16 py-12 text-white">
-      <div className="bg-card rounded-lg p-8">
+      {/* First Box - Don't join this programme if */}
+      <div className="bg-card rounded-lg p-8 mb-8">
         <h2 className="text-2xl font-bold text-white mb-6">Don't join this programme if -</h2>
         
-        <div className="space-y-4 mb-8">
+        <div className="space-y-4">
           <div className="flex items-start gap-3">
             <span className="text-red-500 text-xl font-bold">❌</span>
             <p className="text-muted-foreground text-lg">You are not willing to learn new things and apply them in order to make money.</p>
@@ -23,7 +24,10 @@ const QualificationSection = () => {
             <p className="text-muted-foreground text-lg">You are not willing to do the work required because in this program apart from teaching we also monitor your first flip and how much money you make through it.</p>
           </div>
         </div>
+      </div>
 
+      {/* Second Box - How does it work */}
+      <div className="bg-card rounded-lg p-8 mb-8">
         <h2 className="text-2xl font-bold text-white mb-6">How does it work?</h2>
         
         <div className="space-y-4 mb-8">
@@ -68,7 +72,14 @@ const QualificationSection = () => {
           <Button variant="cta-large" className="mb-6">
             Yes! Enroll Me In ProjectRE.
           </Button>
-          
+        </div>
+      </div>
+
+      {/* Third Box - FAQs */}
+      <div className="bg-card rounded-lg p-8">
+        <h2 className="text-2xl font-bold text-white mb-6 text-center">FAQs</h2>
+        
+        <div className="text-center">
           <Accordion type="single" collapsible className="mt-6 space-y-4">
             <AccordionItem value="what-included" className="border-border">
               <AccordionTrigger className="text-white hover:text-white/80">
